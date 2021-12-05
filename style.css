@@ -1,0 +1,44 @@
+body {
+	background-color: #FFCE45;
+    color: 7E370C;
+    font-weight: 300
+    font-family: 'Roboto', sans-serif;;
+}
+h1 h2 h3 {
+	front-family: Arial ;
+ 	text-align: justify;
+}
+}
+h1 {
+	color: #B05E27;
+	font-size : 40px
+	font-family: 'Merriweather', serif;
+	front-weight : 900
+	text-align: center;
+
+}
+h2 {
+	color: #B05E27;
+	font-size : 28px
+	font-family: 'Roboto', sans-serif;
+	font-weight : 900;
+	texte-align: justify;
+}
+a {
+	text-decoration: blink; 
+	color: black;
+}
+a:hover {
+	color: #D4AC2B;
+}
+
+#Aminata {
+	width:  550px;
+}
+
+#Logo {
+	width:  100px;
+	border-radius : 10px solid black;
+}
+
+
